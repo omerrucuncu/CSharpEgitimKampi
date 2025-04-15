@@ -38,7 +38,7 @@ namespace _02_Variables
 
 
             #endregion
-
+            
             #region Klavyeden veri girişleri String değişkenler
 
             //Console.WriteLine("***** CSharp Hava Yolları *****");
