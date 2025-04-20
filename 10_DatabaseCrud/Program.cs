@@ -25,7 +25,7 @@ namespace _10_DatabaseCrud
             int secilenTablo;
             Console.WriteLine();
             Console.WriteLine("1- Ürünler");
-            Console.WriteLine("2- Kategoriler");
+            Console.WriteLine("2- Kategoriler");  
             Console.WriteLine("3- Siparişler");
             Console.WriteLine("4- Çıkış Yap");
             Console.WriteLine("------------------------------");
